@@ -1,0 +1,29 @@
+.PaswordGenerator{
+    height: 15%;
+    width: 100%;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.PaswordGeneratorInput{
+    height: 50px;
+    width: 700px;
+    outline: none;
+    padding:  0 30px;
+    border-radius: 4px;
+    background-color: #e9ecef;
+    border: none;
+    color: #a49c9b;
+
+}
+
+.copyButton{
+    height: 50px;
+    width: 60px;
+    background-color: #138496;
+    border: none;
+    color:white;
+    border-radius: 4px;
+}

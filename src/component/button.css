@@ -1,0 +1,15 @@
+.buttonContainer{
+    height: 15%;
+    width: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+}
+
+.generateButton{
+    height: 100%;
+    width: 100%;
+    background-color: #138496;
+    border: 3px solid #77beca;
+    color: white;
+    border-radius: 8px;
+}
